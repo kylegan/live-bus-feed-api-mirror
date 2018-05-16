@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cors": "^2.8.4",
+    "superagent": "^3.8.2"
+  }
+}
